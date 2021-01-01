@@ -1,6 +1,9 @@
 body {
   background-color: powderblue;
   color: #81b9bf;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
 }
 
 .btn {
